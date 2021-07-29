@@ -1,5 +1,5 @@
 # api
-Data Skrive takes raw sports data and turns it into human readable articles or "narratives" as we call them.  We syndicate the rendered narrative via easy to consume and understand Atom or RSS XML feeds.  Contact your Data Skrive representative to have a custom narrative rendered and delivered to you.
+Data Skrive takes raw sports data and turns it into human readable articles or "narratives" as we call them.  We also generate custom images using the same raw sports data, we call those 'dynamic images'. We syndicate the rendered narrative (both text and images) via easy to consume and understand Atom or RSS XML feeds.  Contact your Data Skrive representative to have a custom narrative rendered and delivered to you.
 
 To wet your appetite, here are some of our rendered narratives in the wild today.
 
