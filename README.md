@@ -8,3 +8,5 @@ https://apnews.com/article/sports-mlb-baseball-houston-astros-seattle-mariners-f
 https://www.fox5vegas.com/san-jose-takes-on-seattle-after-4-straight-draws/article_96fbf4dd-28ba-5d2d-8135-a876eb0e5d5a.html
 
 https://www.dailyunion.com/sports/national/tampa-bay-tries-to-close-out-stanley-cup-final-against-montreal-in-game-5/article_f1ccd651-aaa1-533a-b525-96ddfbb806f9.html
+
+https://www.thelines.com/red-sox-blue-jays-mlb-betting-odds-trends-7-29-2021/
